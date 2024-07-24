@@ -10,17 +10,17 @@
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
 <h3 align="left">📬 Contact with me </h3>
-<p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;">✉️ sondurip@usc.edu</a></p>
+<p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;">sondurip@usc.edu</a></p>
         <p>
             <a href="https://www.linkedin.com/in/akhilaa-sonduri-0154b61a4/" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #0077b5; color: #fff;">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-                LinkedIn
+                
             </a>
         </p>
         <p>
-            <a href="https://github.com/sa1136" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #333; color: #fff;">
+            <a href="https://github.com/sa1136 "target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #333; color: #fff;">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">
-                GitHub
+                
             </a>
         </p>
         <p>
