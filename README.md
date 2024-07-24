@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilaa Sonduri Panthangi</h1>
-<h3 align="center">A passionate Software developer</h3>
+
 
 <h3 align="left">🌟 About Me :</h3>
   
@@ -9,19 +9,9 @@
 <p align="left">📈 Developed real-time stock search and prediction models.</p>
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
-<br></br>
 
-<h3 align="left">📞Contact with me :</h3>
-<p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;"> sondurip@usc.edu</a></p>
-<p><a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #0077b5; color: #fff;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">LinkedIn</a>
-</p>
-<p><a href="https://github.com/your-github-username" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #333; color: #fff;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;"> GitHub</a>
-</p>
-       
-<br></br>
-        
+
+
 <h3 align ="left">🏅Publications and Certificates :</h3>
 
 <p><a href="Certifications/Akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">📜 Certifications</a>
@@ -29,7 +19,7 @@
 <p><a href="https://ieeexplore.ieee.org/document/9702842" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">🏅Publications</a>
 </p>
 
-<br></br>
+
 <h3 align="left">🛠️ Technologies and Tools I use :</h3>
 <h4 align="left">Languages 🌐:</h4>
 <p align="left">
@@ -80,4 +70,11 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-
+<h3 align="left">📞Contact with me :</h3>
+<p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;"> sondurip@usc.edu</a></p>
+<p><a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #0077b5; color: #fff;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">LinkedIn</a>
+</p>
+<p><a href="https://github.com/your-github-username" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #333; color: #fff;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;"> GitHub</a>
+</p>
