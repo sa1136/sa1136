@@ -23,12 +23,12 @@
 </p>
 
 
-<h3 align="left">🛠️ Technologies and Tools I use :</h3>
+<h3 align="left">🚀 Technologies and Tools I use :</h3>
 
 <table>
   <tr>
     <th>Category</th>
-    <th>Icons</th>
+    <th>Technology</th>
   </tr>
   <tr>
     <td>Languages</td>
@@ -140,11 +140,16 @@
 </table>
 
 
-<h3 align="left">📞Contact with me :</h3>
-<p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;"> sondurip@usc.edu</a></p>
-<p><a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #0077b5; color: #fff;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">LinkedIn</a>
+<h3 align="left">📞 Contact with me :</h3>
+<p align="left">
+  <a href="mailto:sondurip@usc.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-<p><a href="https://github.com/your-github-username" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #333; color: #fff;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;"> GitHub</a>
-</p>
+
