@@ -14,7 +14,7 @@
 
 <h3 align ="left">🏅Publications and Certificates :</h3>
 
-<p><a href="Certifications/Akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">📜 Certifications</a>
+<p><a href="https://drive.google.com/file/d/1MjMo4iLLEBRfdLPVmqlW1o3s6T4UXlLY/view" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">📜 Certifications</a>
 </p>
 <p><a href="https://ieeexplore.ieee.org/document/9702842" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">🏅Publications</a>
 </p>
