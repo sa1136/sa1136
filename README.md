@@ -10,7 +10,7 @@
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
 <p align="left">
-<a href="https://akhilaa-portfolio-fyj7f64fm-akhilaa-sonduris-projects.vercel.app/#home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
+<a href="https://akhilaa-portfolio-dev-git-main-akhilaa-sonduris-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 
@@ -145,10 +145,10 @@
   <a href="mailto:sondurip@usc.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-%230077FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank">
+  <a href="https://www.linkedin.com/in/akhilaa-sonduri-0154b61a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/sa1136" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
