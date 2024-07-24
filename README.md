@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akhilaa Sonduri Panthangi</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-🌟 About Me
-💻 Passionate software developer with cloud computing expertise.
-🎓 Pursuing Master's in Computer Science at USC.
-☁️ Experienced in AWS, GCP, and scalable solutions.
-📈 Developed real-time stock search and prediction models.
-🤖 Enthusiastic about software development and full-stack projects.
+<h3 align="left">🌟 About Me</h3>h3>
+  
+<p align="left">💻 Passionate software developer with cloud computing expertise.</p>
+<p align="left">🎓 Pursuing Master's in Computer Science at USC.</p>
+<p align="left">☁️ Experienced in AWS, GCP, and scalable solutions.</p>
+<p align="left">📈 Developed real-time stock search and prediction models.</p>
+<p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akhilaa-sonduri-0154b61a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilaasonduri" height="30" width="40" /></a>
