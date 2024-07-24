@@ -9,9 +9,10 @@
 <p align="left">📈 Developed real-time stock search and prediction models.</p>
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
-<h3 align="left">🔗 Portfolio :</h3>
 <p align="left">
-  <a href="https://akhilaa-portfolio-fyj7f64fm-akhilaa-sonduris-projects.vercel.app/#home" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">Portfolio</a>
+  <a href="https://akhilaa-portfolio-fyj7f64fm-akhilaa-sonduris-projects.vercel.app/#home" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #28a745; color: #fff;">
+    Portfolio
+  </a>
 </p>
 
 
