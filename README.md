@@ -11,7 +11,7 @@
 
 <h3 align="left">🔗 Portfolio :</h3>
 <p align="left">
-  <a href="https://akhilaa-portfolio-fyj7f64fm-akhilaa-sonduris-projects.vercel.app/#home" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">🌐 Portfolio</a>
+  <a href="https://akhilaa-portfolio-fyj7f64fm-akhilaa-sonduris-projects.vercel.app/#home" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">Portfolio</a>
 </p>
 
 
