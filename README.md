@@ -9,7 +9,7 @@
 <p align="left">📈 Developed real-time stock search and prediction models.</p>
 <p align="left">🤖 Enthusiastic about software development and full-stack projects.</p>
 
-<h3 align="left">📬 Contact with me </h3>
+<h3 align="left">📞Contact with me </h3>
 <p>📧 <a href="mailto:sondurip@usc.edu" style="color: #007bff; text-decoration: none;"> sondurip@usc.edu</a></p>
         <p>
             <a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #0077b5; color: #fff;">
@@ -23,14 +23,16 @@
                 GitHub
             </a>
         </p>
-        <p>
+       
+
+        
+<h3 align ="left">Publications and Certificates</h3>
+
+ <p>
             <a href="Certifications/Akhilaa-sonduri" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">
                 📜 Certifications
             </a>
         </p>
-
-        
-
 <h3 align="left">🛠️ Technologies and Tools I use:</h3>
 
 
