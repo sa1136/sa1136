@@ -13,13 +13,15 @@
 <a href="https://akhilaa-portfolio-dev-git-main-akhilaa-sonduris-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007D00.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<h3 align="left">🏅 Publications and Certificates :</h3>
 
-
-<h3 align ="left">🏅Publications and Certificates :</h3>
-
-<p><a href="https://drive.google.com/file/d/1MjMo4iLLEBRfdLPVmqlW1o3s6T4UXlLY/view" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">📜 Certifications</a>
-</p>
-<p><a href="https://ieeexplore.ieee.org/document/9702842" target="_blank" style="display: inline-flex; align-items: center; padding: 10px; margin: 5px; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; background-color: #007bff; color: #fff;">🏅Publications</a>
+<p align="left">
+  <a href="https://drive.google.com/file/d/1MjMo4iLLEBRfdLPVmqlW1o3s6T4UXlLY/view" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-%23007BFF?style=for-the-badge&logo=certification&logoColor=white" alt="Certifications" />
+  </a>&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/9702842" target="_blank">
+    <img src="https://img.shields.io/badge/Publications-%23FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publications" />
+  </a>
 </p>
 
 
