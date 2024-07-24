@@ -13,12 +13,12 @@
 <p align="left>📧 <a href="mailto:sondurip@usc.edu">sondurip@usc.edu</a></p>
 <p>
 <a href="https://linkedin.com/in/akhilaa-sonduri" target="_blank" class="button linkedin-button">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"> LinkedIn
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"> 
 </a>
 </p>
 <p>
 <a href="https://github.com/sa1136" target="_blank" class="button github-button">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"> GitHub
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub">
 </a>
 </p>
 <p>
