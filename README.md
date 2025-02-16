@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilaa Sonduri Panthangi</h1>
 
 
-<h3 align="left">🌟 About Me :</h3>
+<h3 align="left">🌟 About Me:</h3>
   
 <p align="left">💻 Passionate software developer with cloud computing expertise.</p>
 <p align="left">🎓 Pursuing Master's in Computer Science at USC.</p>
