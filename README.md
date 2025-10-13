@@ -93,7 +93,7 @@
   <a href="https://www.linkedin.com/in/akhilaa-sonduri-0154b61a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://github.com/akhilaa-sonduri" target="_blank">
+  <a href="https://github.com/sa1136" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
