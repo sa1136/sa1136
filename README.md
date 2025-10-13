@@ -85,16 +85,6 @@
   </tr>
 </table>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilaa-sonduri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilaa-sonduri&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilaa-sonduri&theme=tokyonight" alt="GitHub Streak" width="49%"/>
-</p>
-
-
 <h3 align="left">📫 Connect with Me:</h3>
 <p align="left">
   <a href="mailto:sondurip@usc.edu" target="_blank">
