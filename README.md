@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Akhilaa Sonduri Panthangi</h1>
+<h1 align="center">Hi 👋 ,I'm Akhilaa Sonduri Panthangi</h1>
 
 <h3 align="center">💻 Full Stack Developer | MSCS @ USC Alumna  | AWS Cloud Practitioner | Passionate About Scalable & Data-Driven Applications</h3>
 
