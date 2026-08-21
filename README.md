@@ -111,6 +111,35 @@ Cross-platform web + iOS app for live stock data and portfolio management via Fi
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sa1136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1136&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sa1136&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🎨 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sa1136&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa1136/sa1136/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa1136/sa1136/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/sa1136/sa1136/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</p>
+
+---
+
 <div align="center">
 
 **Let's connect** — always happy to talk about agentic AI, RAG systems, or scaling full-stack products.
