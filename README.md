@@ -114,7 +114,7 @@ Cross-platform web + iOS app for live stock data and portfolio management via Fi
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sa1136&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=sa1136&theme=tokyonight&hide_border=true" alt="GitHub Streak"/width="100%">
 </p>
 
 ---
